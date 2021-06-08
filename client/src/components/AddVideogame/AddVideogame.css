@@ -1,0 +1,77 @@
+.frm-cnt{
+    color: white;
+    padding-top:40px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.frm-cnt div{
+    margin-top: 10px;
+}
+
+#mn-add{
+    background-color: black;
+    min-height: 100vh
+}
+
+#img-add{
+    height: 70px;
+    padding-top:50px;
+}
+
+#cnt-add{
+margin:40px;
+text-align: center;
+}
+
+#added{
+    color:white
+}
+
+#btn-ta{
+    height: 50px;
+    background-color: rgb(196, 36, 36);
+}
+
+input{
+    text-align: center;
+}
+#cnt-frm-add{
+    border: 1px solid #ddd;
+    display: inline-block;
+    width: 30vw;
+}
+
+#onefrm{
+    display:inline-block
+}
+
+#cnt-frm-add div{
+    margin:10px
+}
+
+#platadd{
+    height: 30px;
+    color:white;
+    border-radius: 10px;
+    background-color: rgb(196, 36, 36);
+}
+
+.sub-btn{
+        height: 30px;
+        color:white;
+        border-radius: 10px;
+        background-color: rgb(196, 36, 36);
+        padding-bottom: 5px;
+}
+
+#cnt-plat{
+    display: flex;
+    justify-content: center;
+}
+
+#plat-conj{
+    display: inline-block;
+    margin-left:15px;
+    margin-right: 15px;
+}

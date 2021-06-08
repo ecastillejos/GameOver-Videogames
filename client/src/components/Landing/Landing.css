@@ -1,0 +1,29 @@
+.Main{
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    background-image: url(../../img/Landing_Mesa\ de\ trabajo\ 1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.btn1{
+    height: 70px;
+    position: absolute;
+    left: 30vw;
+    bottom: 10%;
+}
+
+.btn2{
+    height: 70px;
+    position: absolute;
+    right:30vw;
+    bottom: 10%
+}
+
+.btn{
+    height: 92%;
+    display: flex;
+    justify-content:center;
+    align-items: flex-end;
+}

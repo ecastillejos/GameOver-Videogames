@@ -1,0 +1,33 @@
+.imgvg{
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 5px;
+    width: 200px;
+    height: 200px;
+    display: block;
+}
+
+.txtvg{
+    color: white;
+}
+
+#cnt-vg{
+    display: inline-block;
+    text-align: center;
+    border: 1px solid #ddd;
+    padding:10px;
+    border-radius: 10px;
+    width: 275px;
+    height: 275px;
+    margin:20px;
+    overflow: scroll;
+}
+
+#cnt-img{
+    display: flex;
+    justify-content: center;
+}
+
+#rat{
+    color:white
+}

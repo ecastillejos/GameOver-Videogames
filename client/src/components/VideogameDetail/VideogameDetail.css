@@ -1,0 +1,58 @@
+#mn-cnt{
+    position: absolute;
+    left:0;
+    right:0;
+    top: 50px;
+    color:white;
+    background-color: black;
+    height: auto;
+}
+
+#img-cnt{
+    display:flex;
+    justify-content:center;
+    margin-bottom: 30px;
+}
+
+#img-dt{
+    width: 250px;
+}
+
+#img-vg{
+    width: 40vw;
+}
+
+#cnt-txt{
+text-align: center;
+width: 80vw;
+border: 1px solid #ddd;
+border-radius: 40px;
+padding: 30px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+#cnt-cnt{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    
+}
+
+#cnt-plats{
+    width: 100px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+    align-items: stretch;
+}
+
+#cnt-cnt-plats{
+    display: flex;
+    justify-content: center;
+}

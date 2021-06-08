@@ -1,0 +1,59 @@
+.list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    position:fixed;
+    width: 100vw;
+    z-index: 99;
+    overflow: visible;
+  }
+
+  #img-lg{
+    height: 40px;
+    position: absolute;
+    top:10px;
+    left:22px
+  }
+  
+  .lst {
+    position: relative;
+      display: inline
+    }
+
+    .form-container{
+      display:inline
+  }
+
+  .ind{
+    display: inline-block;
+      color: white;
+      padding: 20px;
+      text-decoration: none;
+    }
+
+    .ind{
+      display: inline-block;
+        color: white;
+        padding: 20px;
+        text-decoration: none;
+      }
+
+      #frm{
+        width: 30vw;
+        height: 30px;
+      }
+
+      #btn-frm{
+        height: 35px;
+        background-color: rgb(196, 36, 36);
+        color:white;
+        border-radius: 10px;
+      }
+      
+
+  #nav-cnt{
+    text-align: left;
+    position:relative;
+    left: 75px
+  }

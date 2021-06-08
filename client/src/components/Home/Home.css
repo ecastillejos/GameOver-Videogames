@@ -1,0 +1,60 @@
+.Home{
+    min-height: 100vh;
+    min-width: 100vh;
+    background-size: 100%;
+    background-color: black;
+}
+
+#hdr{
+    height: 70px;
+    padding-top:50px;
+    padding-bottom:15px;
+    margin:0;
+}
+
+.proof{
+    padding: 0;
+    margin:0;
+}
+
+.lbl{
+    color:white
+}
+
+#ldr-cnt{
+    display: flex;
+    justify-content: center;
+}
+
+.ldr{
+    width: 150px;
+    position: absolute;
+    top: 30vh
+}
+
+#vgs-cnt{
+    width: 100vw;
+}
+
+#gen{
+    display: inline-block;
+    width: 5vw;
+    height: 5vh;
+    margin:15px
+}
+
+#btn-gnr{
+    margin:15px;
+    color:white;
+    background-color: rgb(196, 36, 36);
+    border-radius: 10px;
+    width: 100px;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+#cnt-gen{
+    width: 50vw;
+}
