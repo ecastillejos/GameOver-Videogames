@@ -7,7 +7,7 @@ Single Page Application con temática de videojuegos, cuyo objetivo es la búsqu
   <h4>Server:</h4> Node, Express, PostgreSQL, Sequelize</h5>
 <hr/>
 
-<h5> Imágenes 📷 <h5><p align='center'><br>
+<h3> Imágenes 📷 <h3><p align='center'><br>
 <img src='./src/Captura1.png' alt="foto1" width="400" height="200">
 <img src='./src/Captura2.png' alt="foto2" width="400" height="200">
 <img src='./src/Captura3.png' alt="foto3" width="400" height="200">
