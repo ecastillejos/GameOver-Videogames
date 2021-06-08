@@ -1,6 +1,6 @@
 # Game Over- Videogames Project 👾
 
-Single Page Application con temática de videojuegos, cuyo objetivo es la búsqueda, filtrado y orden de la data, así como la interacción con la base de datos por medio de la creación de nueva data.
+Single Page Application con temática de videojuegos, cuyo objetivo es la búsqueda, filtrado y orden de la data, así como la interacción del usuario con la base de datos por medio de la creación de nueva data.
 
 <h5>
 <h4>Client:</h4> React, Redux <br>
